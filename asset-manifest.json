@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cd2d469f.css",
-    "main.js": "/static/js/main.7446bbd1.js",
+    "main.js": "/static/js/main.0e21dcd2.js",
     "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
     "static/media/back.jpg": "/static/media/back.4ac87cdb4548b51d8699.jpg",
     "static/media/baloon-1.png": "/static/media/baloon-1.5903bf199ea385b8cf56.png",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.cd2d469f.css",
-    "static/js/main.7446bbd1.js"
+    "static/js/main.0e21dcd2.js"
   ]
 }
