@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b92ca826.css",
-    "main.js": "/static/js/main.40ab9b0c.js",
+    "main.css": "/static/css/main.cd2d469f.css",
+    "main.js": "/static/js/main.991bb648.js",
     "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
     "static/media/back.jpg": "/static/media/back.4ac87cdb4548b51d8699.jpg",
     "static/media/baloon-1.png": "/static/media/baloon-1.5903bf199ea385b8cf56.png",
@@ -15,7 +15,7 @@
     "static/media/error.svg": "/static/media/error.c7aef5626e9098651f9b385c698a2bfb.svg"
   },
   "entrypoints": [
-    "static/css/main.b92ca826.css",
-    "static/js/main.40ab9b0c.js"
+    "static/css/main.cd2d469f.css",
+    "static/js/main.991bb648.js"
   ]
 }
