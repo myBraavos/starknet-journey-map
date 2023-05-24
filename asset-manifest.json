@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.de4e0b72.css",
-    "main.js": "/static/js/main.15336c3f.js",
+    "main.css": "/static/css/main.9216ad49.css",
+    "main.js": "/static/js/main.2fbb75c9.js",
     "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
     "static/media/back.jpg": "/static/media/back.84797fbcb5dfcfcde434.jpg",
     "static/media/nft2-logo.png": "/static/media/nft2-logo.89f45f2d8e0bd71343a8.png",
@@ -21,7 +21,7 @@
     "static/media/big-arrow.svg": "/static/media/big-arrow.e6e4b44650508b25ce6a5d071038afab.svg"
   },
   "entrypoints": [
-    "static/css/main.de4e0b72.css",
-    "static/js/main.15336c3f.js"
+    "static/css/main.9216ad49.css",
+    "static/js/main.2fbb75c9.js"
   ]
 }
