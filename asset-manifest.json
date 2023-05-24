@@ -1,21 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.da41c153.css",
-    "main.js": "/static/js/main.78f83dc7.js",
+    "main.css": "/static/css/main.2694e3a0.css",
+    "main.js": "/static/js/main.5e679f40.js",
     "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
-    "static/media/back.jpg": "/static/media/back.4ac87cdb4548b51d8699.jpg",
+    "static/media/back.jpg": "/static/media/back.84797fbcb5dfcfcde434.jpg",
+    "static/media/nft2-logo.png": "/static/media/nft2-logo.89f45f2d8e0bd71343a8.png",
     "static/media/baloon-1.png": "/static/media/baloon-1.5903bf199ea385b8cf56.png",
     "static/media/baloon-2.png": "/static/media/baloon-2.e49a4c82a3ead17beb3c.png",
     "static/media/braavos-logo.svg": "/static/media/braavos-logo.66c70dd3060602f28f47bf2ade5815f7.svg",
     "static/media/starknet.svg": "/static/media/starknet.2a8b35d57d78f8d8d383251b3d95d851.svg",
+    "static/media/twitter_done.svg": "/static/media/twitter_done.fc2d9cfe823a8c50db41d3fafd34a091.svg",
+    "static/media/braavos-logo-ico.svg": "/static/media/braavos-logo-ico.e9ade45ce66dc8823114f697fdf4d462.svg",
     "index.html": "/index.html",
+    "static/media/earth.svg": "/static/media/earth.9376350148ba57e4dd18d2333931a620.svg",
     "static/media/twitter.svg": "/static/media/twitter.29e59095a24f0939a3ceb3722fbf1fdc.svg",
     "static/media/disconneted.svg": "/static/media/disconneted.2ab5174a0ef8147e460ee43c7ad6fe89.svg",
+    "static/media/popup_close.svg": "/static/media/popup_close.7a24188665fa7cbb8f5b23eb8c4029f3.svg",
     "static/media/arrow-right.svg": "/static/media/arrow-right.566fd2b6dfddea4ce1c0814a409ac5ce.svg",
-    "static/media/error.svg": "/static/media/error.c7aef5626e9098651f9b385c698a2bfb.svg"
+    "static/media/error.svg": "/static/media/error.c7aef5626e9098651f9b385c698a2bfb.svg",
+    "static/media/big-arrow.svg": "/static/media/big-arrow.e6e4b44650508b25ce6a5d071038afab.svg"
   },
   "entrypoints": [
-    "static/css/main.da41c153.css",
-    "static/js/main.78f83dc7.js"
+    "static/css/main.2694e3a0.css",
+    "static/js/main.5e679f40.js"
   ]
 }
