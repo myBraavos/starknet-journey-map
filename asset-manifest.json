@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f634d58f.css",
-    "main.js": "/static/js/main.3ca58030.js",
+    "main.js": "/static/js/main.f761fa00.js",
     "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
     "static/media/back.jpg": "/static/media/back.84797fbcb5dfcfcde434.jpg",
     "static/media/nft-logo-4.png": "/static/media/nft-logo-4.e80f219a2ff089818464.png",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.f634d58f.css",
-    "static/js/main.3ca58030.js"
+    "static/js/main.f761fa00.js"
   ]
 }
