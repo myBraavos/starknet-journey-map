@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff83a1f3.css",
-    "main.js": "/static/js/main.ce238c73.js",
+    "main.css": "/static/css/main.b8774386.css",
+    "main.js": "/static/js/main.18c30a66.js",
     "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
     "static/media/back.jpg": "/static/media/back.84797fbcb5dfcfcde434.jpg",
-    "static/media/nft-logo-3.png": "/static/media/nft-logo-3.2cc3338dda34fccd19a0.png",
+    "static/media/nft-logo-4.png": "/static/media/nft-logo-4.e80f219a2ff089818464.png",
     "static/media/braavos-logo.svg": "/static/media/braavos-logo.66c70dd3060602f28f47bf2ade5815f7.svg",
     "static/media/starknet.svg": "/static/media/starknet.2a8b35d57d78f8d8d383251b3d95d851.svg",
     "index.html": "/index.html",
@@ -12,6 +12,7 @@
     "static/media/status_done.svg": "/static/media/status_done.1a1e4280a11dcfc3321e44a0f4353028.svg",
     "static/media/status_lock.svg": "/static/media/status_lock.c928a9d87d40c533cebc1d70925a2bd4.svg",
     "static/media/twitter_logo_white.svg": "/static/media/twitter_logo_white.7cb3ad4e5d1c3732b28bc2a6e1c7ee5c.svg",
+    "static/media/discord.svg": "/static/media/discord.b668192649ebbae13f9bf7cc1dadef66.svg",
     "static/media/link-external.svg": "/static/media/link-external.6f16460a41dee6c24e8992c86916d58e.svg",
     "static/media/disconneted.svg": "/static/media/disconneted.2ab5174a0ef8147e460ee43c7ad6fe89.svg",
     "static/media/popup_close.svg": "/static/media/popup_close.7a24188665fa7cbb8f5b23eb8c4029f3.svg",
@@ -19,7 +20,7 @@
     "static/media/bonus_step_star_white.svg": "/static/media/bonus_step_star_white.ff59d9bde7c66aace49eeb8d9591ff88.svg"
   },
   "entrypoints": [
-    "static/css/main.ff83a1f3.css",
-    "static/js/main.ce238c73.js"
+    "static/css/main.b8774386.css",
+    "static/js/main.18c30a66.js"
   ]
 }
