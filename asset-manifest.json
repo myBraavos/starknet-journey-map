@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.b9753222.css",
-    "main.js": "/static/js/main.cefb60e3.js",
+    "main.css": "/static/css/main.eda8c03f.css",
+    "main.js": "/static/js/main.71b138f0.js",
     "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
-    "static/media/back.jpg": "/static/media/back.84797fbcb5dfcfcde434.jpg",
-    "static/media/nft-logo-5.png": "/static/media/nft-logo-5.b8fe1ade4ec11c39d0d3.png",
+    "static/media/back.png": "/static/media/back.e1dfe01b4ec9177af1e2.png",
+    "static/media/nft-3.png": "/static/media/nft-3.9fcf4566612002abbd5f.png",
+    "static/media/nft-5.png": "/static/media/nft-5.6a7f5a020d5bc25bcd13.png",
+    "static/media/nft-2.png": "/static/media/nft-2.be83ed4fd73b5f7f331c.png",
+    "static/media/nft-1.png": "/static/media/nft-1.e553305cf31c1bc19bb2.png",
+    "static/media/nft-4.png": "/static/media/nft-4.5f46175c6a8628daabff.png",
+    "static/media/open-invest.png": "/static/media/open-invest.c23c978a596adc52c0d0.png",
     "static/media/braavos-logo.svg": "/static/media/braavos-logo.66c70dd3060602f28f47bf2ade5815f7.svg",
-    "static/media/starknet.svg": "/static/media/starknet.2a8b35d57d78f8d8d383251b3d95d851.svg",
+    "static/media/starknet.svg": "/static/media/starknet.66d4aba7f2716e0875f34d6b55ffd8fe.svg",
     "index.html": "/index.html",
-    "static/media/logo_braavos_white.svg": "/static/media/logo_braavos_white.87b865b05cb5c875f2bfc011c47e7f80.svg",
-    "static/media/status_done.svg": "/static/media/status_done.1a1e4280a11dcfc3321e44a0f4353028.svg",
-    "static/media/status_lock.svg": "/static/media/status_lock.c928a9d87d40c533cebc1d70925a2bd4.svg",
-    "static/media/twitter_logo_white.svg": "/static/media/twitter_logo_white.7cb3ad4e5d1c3732b28bc2a6e1c7ee5c.svg",
+    "static/media/icon_done_gray.svg": "/static/media/icon_done_gray.9223b47c1a8b0a41b8ac19989434fa10.svg",
     "static/media/discord.svg": "/static/media/discord.b668192649ebbae13f9bf7cc1dadef66.svg",
-    "static/media/link-external.svg": "/static/media/link-external.6f16460a41dee6c24e8992c86916d58e.svg",
-    "static/media/disconneted.svg": "/static/media/disconneted.2ab5174a0ef8147e460ee43c7ad6fe89.svg",
-    "static/media/claim_nft_step_white.svg": "/static/media/claim_nft_step_white.b2bfb08647af62e2cdb8405404d8c8f2.svg",
-    "static/media/bonus_step_star_white.svg": "/static/media/bonus_step_star_white.ff59d9bde7c66aace49eeb8d9591ff88.svg"
+    "static/media/disconneted.svg": "/static/media/disconneted.2ab5174a0ef8147e460ee43c7ad6fe89.svg"
   },
   "entrypoints": [
-    "static/css/main.b9753222.css",
-    "static/js/main.cefb60e3.js"
+    "static/css/main.eda8c03f.css",
+    "static/js/main.71b138f0.js"
   ]
 }
