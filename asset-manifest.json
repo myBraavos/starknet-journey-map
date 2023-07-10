@@ -1,24 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.eda8c03f.css",
-    "main.js": "/static/js/main.c7f645c6.js",
-    "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
-    "static/media/back.png": "/static/media/back.e1dfe01b4ec9177af1e2.png",
-    "static/media/nft-3.png": "/static/media/nft-3.9fcf4566612002abbd5f.png",
-    "static/media/nft-5.png": "/static/media/nft-5.6a7f5a020d5bc25bcd13.png",
-    "static/media/nft-2.png": "/static/media/nft-2.be83ed4fd73b5f7f331c.png",
-    "static/media/nft-1.png": "/static/media/nft-1.e553305cf31c1bc19bb2.png",
-    "static/media/nft-4.png": "/static/media/nft-4.5f46175c6a8628daabff.png",
-    "static/media/open-invest.png": "/static/media/open-invest.c23c978a596adc52c0d0.png",
-    "static/media/braavos-logo.svg": "/static/media/braavos-logo.66c70dd3060602f28f47bf2ade5815f7.svg",
-    "static/media/starknet.svg": "/static/media/starknet.66d4aba7f2716e0875f34d6b55ffd8fe.svg",
-    "index.html": "/index.html",
-    "static/media/icon_done_gray.svg": "/static/media/icon_done_gray.9223b47c1a8b0a41b8ac19989434fa10.svg",
-    "static/media/discord.svg": "/static/media/discord.b668192649ebbae13f9bf7cc1dadef66.svg",
-    "static/media/disconneted.svg": "/static/media/disconneted.2ab5174a0ef8147e460ee43c7ad6fe89.svg"
+    "main.css": "/static/css/main.4efb37a3.css",
+    "main.js": "/static/js/main.621c01ce.js",
+    "static/js/522.6dd79d7e.chunk.js": "/static/js/522.6dd79d7e.chunk.js",
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.eda8c03f.css",
-    "static/js/main.c7f645c6.js"
+    "static/css/main.4efb37a3.css",
+    "static/js/main.621c01ce.js"
   ]
 }
